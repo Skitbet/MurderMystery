@@ -1,0 +1,7 @@
+name: MurderMystery
+main: com.skitbet.murder.MurderPlugin
+version: 1.0
+api-version: 1.13
+commands:
+  addspawn:
+    permission: murder.addspawn
